@@ -59,7 +59,7 @@ $count =$query->rowCount();
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
   <!-- Title Page-->
-  <title>Au Register Forms by Colorlib</title>
+  <title>Delete</title>
 
 
   <!-- Main CSS-->
